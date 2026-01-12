@@ -1,4 +1,4 @@
-# <img src="/logo.svg" width="25" alt="Studio Minsky Logo"> Studio Minsky
+# <img src="/logo.svg" width="25" alt="nenad.studio Logo"> nenad.studio
 
 Professional web development agency dedicated to building high-performance, scalable web solutions.
 Based in Vienna, Austria.
