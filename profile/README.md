@@ -1,4 +1,4 @@
-# <img src="/logo.svg" width="25" alt="nenad.studio Logo"> nenad.studio
+# <img src="/logo.svg" width="25" alt="Nenad Studio Logo"> Nenad Studio
 
 Professional web development agency dedicated to building high-performance, scalable web solutions.
 Based in Vienna, Austria.
